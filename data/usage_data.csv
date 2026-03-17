@@ -1,0 +1,6 @@
+customer_id,name,plan,api_calls
+1,John,Basic,12000
+2,Alice,Pro,40000
+3,Bob,Basic,8000
+4,Emma,Pro,60000
+5,David,Basic,15000
